@@ -1,7 +1,7 @@
 node{
   def GITREPO         = "C:/git/databricks"
-  def GITREPOREMOTE   = "https://ledcb761.frmon.danet/gogs/Incubator/databricks.git"
-  def GITHUBCREDID    = "428795236bf09b04a7a9bd417f879400b78c8eb1"
+  def GITREPOREMOTE   = "https://github.com/Laymonos/avro.git"
+  def GITHUBCREDID    = "github-id"
   def CURRENTRELEASE  = "continous-integration"
   def DBTOKEN         = "databricks-id"
   def DBURL           = "https://dbc-35e3d831-3665.cloud.databricks.com/"
